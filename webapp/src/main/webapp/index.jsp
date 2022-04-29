@@ -13,7 +13,7 @@
     <br>
 
 
-    <label for="email222"><b>Enter Email</b></label>
+    <label for="email222"><b>Email 222</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
